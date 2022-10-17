@@ -3,7 +3,7 @@ date: "2019-08-02T11:04:49+08:00"
 description: About LoveIt
 draft: false
 images:
-- /Apple-Devices-Preview.png
+- /FotoFace.png
 lightgallery: true
 math:
   enable: true
@@ -22,7 +22,7 @@ title: About LoveIt
 >
 > It is based on the original [LeaveIt Theme](https://github.com/liuzc/LeaveIt) and [KeepIt Theme](https://github.com/Fastbyte01/KeepIt).
 
-![Hugo Theme LoveIt](/images/Apple-Devices-Preview.png "Hugo Theme LoveIt")
+![Hugo Theme LoveIt](/FotoFace.png "Hugo Theme LoveIt")
 
 ## Features
 
