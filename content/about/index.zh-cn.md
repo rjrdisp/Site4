@@ -3,7 +3,7 @@ date: "2019-08-02T11:04:49+08:00"
 description: 关于 LoveIt
 draft: false
 images:
-- /Apple-Devices-Preview.png
+- /FotoFace.png
 lightgallery: true
 math:
   enable: true
