@@ -1,10 +1,10 @@
 ---
-author: Dillon
+author: Rodrigo
 authorLink: https://dillonzq.com
 categories:
 - Markdown
 date: "2019-12-01T21:57:40+08:00"
-description: This article shows the basic Markdown syntax and format.
+description: Material de Micro.
 draft: false
 images: []
 lastmod: "2020-01-01T16:45:40+08:00"
