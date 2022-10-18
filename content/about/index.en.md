@@ -17,7 +17,7 @@ math:
 > [:(far fa-kiss-wink-heart fa-fw): FMGR] é um **Grupo** formado por **professores** da  **ufmg**, que pesquisam na área de finanças.
 
 
-![Hugo Theme LoveIt](/images/FotoFace.png)
+![Hugo Theme LoveIt](/images/FotoFace.jpg)
 
 ## Membros
 
