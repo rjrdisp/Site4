@@ -23,10 +23,10 @@ description: About LoveIt
 ### Rodrigo Jardim Raad
 
 
-|  |  | 
-|:------|:-----|
-| <img src="/images/FotoRodrigo.png" width="100">  | [Lattes](http://lattes.cnpq.br/9179041742604486) [Teste](https://www.face.ufmg.br/)  |
-||
 
-:(fas fa-rocket fa-fw):  Áreas de interesse: Equilíbrio geral, equilíbrio recursivo computável, modelos de assimetria de informação, seleção de mercado e apreçamento de ativos. É líder do grupo de pesquisa em mercados financeiros na FACE - UFMG.
+ <img src="/images/FotoRodrigo.png" width="100"> [Lattes](http://lattes.cnpq.br/9179041742604486) [Teste](https://www.face.ufmg.br/)  
+
+
+:(fas fa-rocket fa-fw):  ***Áreas de interesse***: Equilíbrio geral, equilíbrio recursivo computável, modelos de assimetria de informação, seleção de mercado e apreçamento de ativos. É líder do grupo de pesquisa em mercados financeiros na FACE - UFMG.
+
 
